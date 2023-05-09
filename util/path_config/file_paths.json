@@ -1,0 +1,60 @@
+{
+    "paths": [
+        {
+            "path_name": "db",
+            "actual_path": "/hardware_pos_system/db/Db.php"
+        },
+        {
+            "path_name": "db_util",
+            "actual_path": "/hardware_pos_system/sales/db/Util.php"
+        },
+        {
+            "path_name": "add_sales",
+            "actual_path": "/hardware_pos_system/sales/services/add_sales.php"
+        },
+        {
+            "path_name": "sales_db_works",
+            "actual_path": "/hardware_pos_system/sales/db/SalesDbWorks.php"
+        },
+        {
+            "path_name": "validations",
+            "actual_path": "/hardware_pos_system/util/Validations.php"
+        },
+        {
+            "path_name": "util_methods",
+            "actual_path": "/hardware_pos_system/util/methods/Util.php"
+        },
+        {
+            "path_name": "sales_services_show_info",
+            "actual_path": "/hardware_pos_system/sales/services/show_today_info.php"
+        },
+        {
+            "path_name": "table_for_sales",
+            "actual_path": "/hardware_pos_system/sales/services/for_table.php"
+        },
+        {
+            "path_name": "expenses_db_works",
+            "actual_path": "/hardware_pos_system/expenses/db/ExpensesDbWorks.php"
+        },
+        {
+            "path_name": "expenses_load_description",
+            "actual_path": "/hardware_pos_system/expenses/services/load_description.php"
+        },
+        {
+            "path_name": "add_expenses",
+            "actual_path": "/hardware_pos_system/expenses/services/add_expenses.php"
+        },
+        {
+            "path_name": "table_for_expenses",
+            "actual_path": "/hardware_pos_system/expenses/services/for_table.php"
+        },
+        {
+            "path_name": "optionGenerate",
+            "actual_path": "/hardware_pos_system/util/html_generators/OptionGenerate.php"
+        },
+        {
+            "path_name": "match_category_description",
+            "actual_path": "/hardware_pos_system/expenses/services/match_category_description.php"
+        }
+    ]
+}
